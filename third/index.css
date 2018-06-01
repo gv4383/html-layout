@@ -1,0 +1,53 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.rectangle {
+  height: 14vh;
+  width: 100vw;
+}
+
+#gray {
+  background-color: rgb(194, 194, 194);
+}
+
+#box {
+  height: 10vh;
+  width: 10vw;
+  margin-top: 2vh;
+  margin-left: 3vw;
+  background-color: rgb(59, 143, 253);
+}
+
+#white {
+  height: 20vh;
+}
+
+p {
+  font-size: 1.5em;
+  margin-top: 8vh;
+  margin-left: 5vw;
+  margin-right: 5vw;
+}
+
+#blue {
+  background-color: rgb(59, 143, 253);
+}
+
+#teal {
+  background-color: rgb(40, 216, 216);
+}
+
+#green {
+  background-color: rgb(149, 229, 149);
+}
+
+#yellow {
+  background-color: yellow;
+}
